@@ -8,6 +8,8 @@ function App() {
         <Lotto title='Lottery' amount={6}></Lotto>
         <br></br>
         <Lotto title='Mini Lottery' amount={4}></Lotto>
+        <br></br>
+        <Lotto title='Tiny Lottery' amount={2}></Lotto>
     </div>
   );
 }
